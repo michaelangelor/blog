@@ -1,0 +1,25 @@
+#author{
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+body {
+    padding-top: 70px;
+}
+
+#btn-create-post{
+    margin-top:20px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+#trash-btn{
+    margin-left: 20px;
+}
+
+#comment-btn{
+margin-top:15px;
+margin-left:495px;
+}
+
